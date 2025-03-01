@@ -1,0 +1,29 @@
+/* src/components/Header.css */
+.header {
+  /* ... (Existing styles) ... */
+}
+
+.search-bar {
+  /* ... (Existing styles) ... */
+}
+
+.search-bar input {
+  /* ... (Existing styles) ... */
+}
+
+.search-bar input::placeholder {
+  /* ... (Existing styles) ... */
+}
+
+.search-bar .search-icon {
+  /* Add styles for search icon here */
+  margin-left: 5px;
+}
+
+.user-section {
+  /* ... (Existing styles) ... */
+}
+
+.avatar {
+  /* ... (Existing styles) ... */
+}
